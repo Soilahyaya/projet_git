@@ -1,0 +1,34 @@
+//C'est Quoi Angular.Js?
+
+
+Angular est un framework de développement web basé sur JavaScript utilisé pour créer des applications côté client riches 
+et interactives. Il aide les développeurs à structurer leur code, à gérer les données et les interactions utilisateur,
+à effectuer des tests automatisés et à déployer facilement des applications sur différents canaux.
+
+
+//Les avantages d'utiliser Angular sont:
+
+
+Angular propose les fonctionnalités suivantes:
+
+1. Modèles: Les données sont gérées avec des modèles, qui représentent les différentes parties de l'application.
+
+2. Vues: Les vues sont des templates HTML qui permettent de présenter les données du modèle à l'utilisateur.
+
+3. Contrôleurs: Les contrôleurs gèrent la logique de l'application en interagissant avec les modèles et les vues.
+
+3. Directives: Les directives permettent d'ajouter des fonctionnalités supplémentaires à l'HTML, telles que la validation de formulaire et la gestion de l'affichage conditionnel.
+
+4. Services: Les services sont des objets de l'application qui gèrent les tâches communes telles que les requêtes HTTP et la gestion des données.
+
+5. Routage: Le routage permet de gérer les différentes pages de l'application et de naviguer entre elles.
+
+
+//les inconvénients d'utilser Angular 
+
+
+1.  ne pas pouvoir pleinement bénéficier des avantages des frameworks back-end.
+2.  Certains développeurs disent que le framework est trop compliqué et à moins que vous ne soyez très expérimenté,
+ il n’est pas possible de l’utiliser.Vous devez être conscient de ce qui se passe dans le front-end pour lire le code.
+ 
+
