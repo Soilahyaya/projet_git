@@ -1,0 +1,42 @@
+ - nom de la librairie ou du framework
+
+Je vais travailler sur le framework js Ember.js
+
+- description en quelques lignes de l'outil choisi
+
+En décembre 2011, le framework alors nommé SproutCore 2.0 est renommé en Amber.
+js puis Ember.js, dans le but d'éviter toute confusion avec les ressources de SproutCore 1.04,5. 
+Le framework a été créé par Yehuda Katz, un membre de jQuery
+
+Ember.js est un framework javascript, ce framework s'utilise coter client,
+il permet de gérer les acrions utilisateur sur un e page sans chargement et permet de créer des (on page applications).
+
+Une application à page unique est une application qui interagit avec les utilisateurs en réécrivant les pages Web existantes avec de nouvelles données provenant du serveur Web,
+au lieu d’utiliser la technique par défaut du navigateur qui exécute une toute nouvelle page.
+L’objectif est d’avoir des transitions plus rapides qui peuvent faire en sorte que le site se sente plus comme une application inhérente.
+
+EmberJS a un intérêt lorsque l’on souhaite développer une application comportant une part de javascript assez conséquente.
+A l’heure actuelle, de plus en plus d’applications évitent les rechargements de pages au maximum afin de rendre plus fluide la navigation pour l’utilisateur.
+
+Avantages :
+
+- Liaison de données bidirectionnelle
+- Architecture basée sur les composants
+- Gestion des URL avec le routeur
+- Système de construction flexible avec Ember CLI
+- Fort soutien à la modularité et au code réutilisable
+- Grande communauté active et écosystème.
+
+Inconvénients :
+
+- Courbe d'apprentissage raide
+- Taille et complexité plus importantes par rapport à certaines autres frameworks
+- Problèmes de performance avec des applications complexes
+- Possibilité d'un développement plus lent en raison des conventions et de la structure stricte.
+
+- votre analyse 
+
+Ember.js a été conçu pour faciliter le développement d'applications complexes.
+Ember.js a une courbe d'apprentissage raide en raison de sa structure strictement conventionnelle, mais cela peut également être considéré comme un avantage car cela aide les développeurs à suivre des pratiques de développement cohérentes.
+Cependant, la taille et la complexité d'Ember.js peuvent poser des problèmes pour les applications plus simples et la performance peut souffrir avec les applications complexes.
+Malgré cela, Ember.js a une grande communauté active et un écosystème riche, ce qui facilite la résolution de problèmes et la découverte de nouvelles fonctionnalités.
