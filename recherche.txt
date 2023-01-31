@@ -8,4 +8,15 @@ React est une bibliothèque JavaScript open-source qui est utilisée pour constr
 // Avantages
 
 
+Rapide, non dangereux, convivialité,toujours a jour,developpement web réactif
+
+
+
+// inconvénient
+
+Manque de documentation , ensemble d'outillage incomplet,
+
+
+
+
 
